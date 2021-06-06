@@ -32,10 +32,9 @@ twitter_username: 0time
 github_username:  oscarmparedes
 
 # Build settings
-#theme: minima
+theme: minima
 #plugins:
 #  - jekyll-feed
-theme: jekyll-theme-cayman
 
 # Exclude from processing.
 # The following items will not be processed, by default.
