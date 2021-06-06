@@ -35,7 +35,7 @@ github_username:  oscarmparedes
 #theme: minima
 #plugins:
 #  - jekyll-feed
-theme: jekyll-theme-clean-blog
+theme: jekyll-theme-cayman
 
 # Exclude from processing.
 # The following items will not be processed, by default.
