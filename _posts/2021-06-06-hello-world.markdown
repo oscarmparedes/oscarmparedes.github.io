@@ -7,6 +7,6 @@ categories: thetrapdoor
 ---
 This is just a test to check if I am able to write a post to my jekyll site.
 
-image test:
+
 ![image info][{{ site.url }}/assets/image.png]
 
