@@ -32,7 +32,7 @@ twitter_username: 0time
 github_username:  oscarmparedes
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 #plugins:
 #  - jekyll-feed
 
