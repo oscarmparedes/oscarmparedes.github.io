@@ -16,3 +16,5 @@ somevarsinarray:
   - var2
   - var3
 {% endhighlight %}
+
+[![Matrix](http://img.youtube.com/vi/bi04UCeXqLc/0.jpg)](http://www.youtube.com/watch?v=bi04UCeXqLc)
